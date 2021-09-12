@@ -1,1 +1,1 @@
-# Solutions for challenges 
+# Solutions for the challenges 
