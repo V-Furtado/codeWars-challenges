@@ -1,2 +1,2 @@
 # Codewars-challenges
-Solutions 
+ 
