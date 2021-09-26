@@ -2,7 +2,7 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  * * * * * * * * * * *
  *  Given an array of integers your solution should find the smallest integer.                              *
  *                                                                                                          *
- *   Example:                                                                                             	*
+ *   Eample:                                                                                                *
  *   input array: [34, 15, 88, 2]  |   [34, -345, -1, 100]                                                  *
  *   output: 2    |   -345                                                                                  *
  *                                                                                                          *
