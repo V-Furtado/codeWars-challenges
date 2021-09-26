@@ -18,11 +18,9 @@
 *   In Shell bash a1 and a2 are strings. The return is a string where words are separated by commas.        *
 *   Beware: r must be without duplicates.                                                                   *
 *                                                                                                           *
-* Source: https://www.youtube.com/watch?v=mLebqv0X6Qk&list=PL12PaK2M1XpMUc0MQMb0Db6D7gcpcvlCt&index=2       *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  * * * * * * * */
 
 import java.util.*;
-//import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class WhichAreIn {
