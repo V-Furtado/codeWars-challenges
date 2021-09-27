@@ -10,8 +10,8 @@
 
 public class MinNumber {
 	public static int findSmallestInt(int[] args) {
-		if (args == null || args.length ==0) {
-			throw new IllegalArgumentException("args must be non-null with lengh > 0");  
+		if (args == null || args.length == 0) {
+			throw new IllegalArgumentException("args must be non-null with length > 0");  
 		}
 		// variable
 		int minNum = args[0];
